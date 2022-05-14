@@ -1,0 +1,40 @@
+#submit_button
+{
+    margin-top:20px;;
+    margin-bottom:20px;
+}
+
+#input
+{
+    margin:10px;
+}
+#Display_name_with_commas
+{
+    border:1px solid green;
+    padding: 10px;
+    background-color:red;
+    border: radius 10px;
+    width:50%;
+    font-size: x-large;
+}
+#Display_name_without_commas
+{
+    border:1px solid green;
+    padding: 10px;
+    background-color:cyan;
+    border: radius 10px;
+    width:50%;
+    font-size: x-large;
+}
+#Display_array
+{
+    border:1px solid green;
+    padding: 10px;
+    background-color:yellow;
+    border: radius 10px;
+    width:50%;
+}
+body
+{
+    background-color: firebrick;
+}
